@@ -4,4 +4,4 @@ This script can be used to automatically tweet tweets on twitter. In order for t
 
 Credits for text go to creator of webpage http://sebpearce.com/bullshit/.
 
-You can check out the results of this script on https://twitter.com/wordswisdom13. If you follow the profile you will be receiving bullshit tweets approximately every 3 hours :)
+You can check out the results of this script on https://twitter.com/wordswisdom13. If you follow the profile you will be receiving bullshit tweets every few hours :)
