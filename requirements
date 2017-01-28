@@ -1,0 +1,7 @@
+requests==2.12.4
+Js2Py==0.43
+lxml==3.6.4
+numpy==1.11.1
+oauthlib==2.0.1
+tweepy==3.5.0
+requests-oauthlib==0.7.0
